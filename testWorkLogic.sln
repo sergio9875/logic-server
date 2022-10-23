@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testWorkLogic", "testWorkLogic\testWorkLogic.csproj", "{2AA49792-D968-4FB7-9C76-1CAE29834ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AA49792-D968-4FB7-9C76-1CAE29834ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA49792-D968-4FB7-9C76-1CAE29834ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA49792-D968-4FB7-9C76-1CAE29834ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA49792-D968-4FB7-9C76-1CAE29834ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78714AFB-6375-4EBB-82EE-58534DCC6405}
+	EndGlobalSection
+EndGlobal
